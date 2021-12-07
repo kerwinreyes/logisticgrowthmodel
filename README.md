@@ -1,1 +1,1 @@
-# logisticgrowthmodel
+# Logistic Growth Model
